@@ -1,19 +1,9 @@
-# STARTER-jpa02
+# jpa02-roberto-garcia-0
 
-* TODO: Change the title of this README 
-  in the text `# STARTER-jpa02` above
-  to match the name of your repo, i. e., `jpa02-yourgithubid`, then delete
-  this TODO item.
+Repo: https://github.com/ucsb-cs156-s22/jpa02-roberto-garcia-0
 
-* TODO: Correct the links to repo below, 
-  then delete this TODO.  Replace it with 
-  a link to your repo, e.g. 
-  https://github.com/ucsb-cs156-s22/jpa02-cgaucho
-
-Repo: https://ucsb-cs156-s22/STARTER-jpa02
-
-* TODO: Correct the links to app on Heroku below, 
-  then delete this TODO.  Replace it with 
+* TODO: Correct the links to app on Heroku below,
+  then delete this TODO.  Replace it with
   a link to your running app on Heroku, e.g.
   https://cs156-s22-jpa02-cgaucho.herokuapp.com
 
@@ -21,7 +11,7 @@ Repo: https://ucsb-cs156-s22/STARTER-jpa02
 On Heroku: https://cs156-s22-jpa02-cgaucho.herokuapp.com
 
 * TODO: Correct the links to codecov report below
-  then delete this TODO.  Replace it with 
+  then delete this TODO.  Replace it with
   a link to your codecov report.
 
 On Codecov: https://codecov.io/gh/ucsb-cs156-s22/jpa02-cgaucho
@@ -68,18 +58,16 @@ below.
   * Converting test code to use JUnit 5 instead of JUnit 4  
 * Heroku Support
   * Ensuring that the `PORT` environment variable is
-    used to define the port on which Spring Boot starts the web server 
+    used to define the port on which Spring Boot starts the web server
   * Providing a `Procfile` for deployment on Heroku
   * Added a `system.properties` file in the main directory
     which specifies the Java version for Heroku.
 * Testing and CI
   * Adding JUnit tests
-  * Adding jacoco as a plugin to measure test 
+  * Adding jacoco as a plugin to measure test
     case coverage
   * Adding pitest for mutation test coverage.
   * Adding support for GitHub Actions to run
     the test cases, compute jacoco report,
     upload code coverage reports to Codecov.io,
     and produce pitest artifacts.
-
-
