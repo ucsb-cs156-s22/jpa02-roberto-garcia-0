@@ -2,13 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-s22/jpa02-roberto-garcia-0
 
-* TODO: Correct the links to app on Heroku below,
-  then delete this TODO.  Replace it with
-  a link to your running app on Heroku, e.g.
-  https://cs156-s22-jpa02-cgaucho.herokuapp.com
-
-
-On Heroku: https://cs156-s22-jpa02-cgaucho.herokuapp.com
+On Heroku: https://jpa02-robertogarcia.herokuapp.com/
 
 * TODO: Correct the links to codecov report below
   then delete this TODO.  Replace it with
