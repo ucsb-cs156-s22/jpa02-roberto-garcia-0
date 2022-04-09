@@ -4,11 +4,8 @@ Repo: https://github.com/ucsb-cs156-s22/jpa02-roberto-garcia-0
 
 On Heroku: https://jpa02-robertogarcia.herokuapp.com/
 
-* TODO: Correct the links to codecov report below
-  then delete this TODO.  Replace it with
-  a link to your codecov report.
 
-On Codecov: https://codecov.io/gh/ucsb-cs156-s22/jpa02-cgaucho
+On Codecov: https://app.codecov.io/gh/ucsb-cs156-s22/jpa02-roberto-garcia-0
 
 
 # About this repo
